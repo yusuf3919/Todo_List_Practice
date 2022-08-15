@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+.display {
+  padding: 16px;
+  margin: 5px 0;
+  background-color: aquamarine;
+  /* cursor: pointer; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
